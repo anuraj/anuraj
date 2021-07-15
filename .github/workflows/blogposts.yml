@@ -3,8 +3,8 @@
 name: Blog posts on ReadMe
 on:
   schedule:
-    # Runs every day at 3pm UTC (11pm SG)
-    - cron: '0 15 * * *'
+    # Runs every day at 9am UTC
+    - cron: '0 4 * * *'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
