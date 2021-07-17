@@ -9,6 +9,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Adding blog posts to your GitHub README with GitHub Actions](https://dotnetthoughts.net/adding-blog-posts-to-your-github-readme-with-github-actions/)
 - [End to end testing web apps using Playwright and Azure DevOps](https://dotnetthoughts.net/end-to-end-testing-web-apps-using-playwright-and-azure-devops/)
 - [Open API support for ASP.NET Core Minimal API](https://dotnetthoughts.net/openapi-support-for-aspnetcore-minimal-webapi/)
 - [Implementing Caching in ASP.NET Core with SQL Server](https://dotnetthoughts.net/implementing-caching-in-aspnet-core-with-sqlserver/)
@@ -18,5 +19,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Minimal APIs in ASP.NET Core 6.0 - Part2](https://dotnetthoughts.net/minimal-api-in-aspnet-core-mvc6-part2/)
 - [Infuse Machine Learning into your ASP.NET Core apps](https://dotnetthoughts.net/infuse-machine-learning-into-your-aspnetcore-apps/)
 - [Microsoft released Visual Studio 2022 Preview 1](https://dotnetthoughts.net/visual-studio-2022-preview-1-now-available/)
-- [Deploying a Static Web App via Azure DevOps Pipeline](https://dotnetthoughts.net/deploying-a-static-webapp-via-azure-devops-pipeline/)
 <!-- BLOGPOSTS:END -->
