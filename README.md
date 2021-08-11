@@ -9,6 +9,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Authenticating ASP.NET Core MVC applications with Azure Active Directory B2C - Part1](https://dotnetthoughts.net/azure-active-directory-b2c-in-aspnet-core-mvc-part1/)
 - [Developing Azure Functions with GitHub Codespaces DevContainers](https://dotnetthoughts.net/developing-azure-functions-with-codespaces-devcontainers/)
 - [Adding blog posts to your GitHub README with GitHub Actions](https://dotnetthoughts.net/adding-blog-posts-to-your-github-readme-with-github-actions/)
 - [End to end testing web apps using Playwright and Azure DevOps](https://dotnetthoughts.net/end-to-end-testing-web-apps-using-playwright-and-azure-devops/)
@@ -18,5 +19,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Integrating Tailwind into an ASP.NET Core Project](https://dotnetthoughts.net/integrating-tailwind-into-aspnetcore-project/)
 - [Improving Angular CI Build Time Using Azure DevOps Cache task](https://dotnetthoughts.net/improving-angular-ci-build-time-using-azure-devops/)
 - [Minimal APIs in ASP.NET Core 6.0 - Part2](https://dotnetthoughts.net/minimal-api-in-aspnet-core-mvc6-part2/)
-- [Infuse Machine Learning into your ASP.NET Core apps](https://dotnetthoughts.net/infuse-machine-learning-into-your-aspnetcore-apps/)
 <!-- BLOGPOSTS:END -->
