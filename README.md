@@ -9,6 +9,8 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Working with DevOps friendly EF Core Migration Bundles](https://dotnetthoughts.net/working-with-ef-core-migration-bundles/)
+- [How to implement two-factor authentication in ASP.NET Core without Identity](https://dotnetthoughts.net/how-to-implement-2fa-with-aspnet-core-without-identity/)
 - [ASP.NET Core Web.config Transform for Production](https://dotnetthoughts.net/asp-net-core-web-config-transform-for-production/)
 - [Continuous database deployment with GitHub Actions](https://dotnetthoughts.net/continuous-database-deployment-with-github-actions/)
 - [Run EF Core Migrations in multiple databases with Azure DevOps](https://dotnetthoughts.net/run-ef-core-migrations-in-multiple-databases-with-azure-devops/)
@@ -17,6 +19,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Developing Azure Functions with GitHub Codespaces DevContainers](https://dotnetthoughts.net/developing-azure-functions-with-codespaces-devcontainers/)
 - [Adding blog posts to your GitHub README with GitHub Actions](https://dotnetthoughts.net/adding-blog-posts-to-your-github-readme-with-github-actions/)
 - [End to end testing web apps using Playwright and Azure DevOps](https://dotnetthoughts.net/end-to-end-testing-web-apps-using-playwright-and-azure-devops/)
-- [Open API support for ASP.NET Core Minimal API](https://dotnetthoughts.net/openapi-support-for-aspnetcore-minimal-webapi/)
-- [Implementing Caching in ASP.NET Core with SQL Server](https://dotnetthoughts.net/implementing-caching-in-aspnet-core-with-sqlserver/)
 <!-- BLOGPOSTS:END -->
