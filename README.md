@@ -9,6 +9,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Deploying Angular with ASP.​NET MVC 5 on IIS](https://dotnetthoughts.net/deploying-angular-with-asp-net-mvc-5-on-iis/)
 - [The workflow must be associated with an integration account - Azure Logic App](https://dotnetthoughts.net/using-excute-javascript-code-action-in-azure-logic-app/)
 - [OData (Open Data Protocol) in ASP.NET 6.0](https://dotnetthoughts.net/odata-in-aspnet-core6/)
 - [Working with DevOps friendly EF Core Migration Bundles](https://dotnetthoughts.net/working-with-ef-core-migration-bundles/)
@@ -18,5 +19,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Run EF Core Migrations in multiple databases with Azure DevOps](https://dotnetthoughts.net/run-ef-core-migrations-in-multiple-databases-with-azure-devops/)
 - [Authenticating ASP.NET Core MVC applications with Azure Active Directory B2C - User flows - Part2](https://dotnetthoughts.net/azure-active-directory-b2c-in-aspnet-core-mvc-part2/)
 - [Authenticating ASP.NET Core MVC applications with Azure Active Directory B2C - Part1](https://dotnetthoughts.net/azure-active-directory-b2c-in-aspnet-core-mvc-part1/)
-- [Developing Azure Functions with GitHub Codespaces DevContainers](https://dotnetthoughts.net/developing-azure-functions-with-codespaces-devcontainers/)
 <!-- BLOGPOSTS:END -->
