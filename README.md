@@ -9,6 +9,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Deploying PHP Applications to Azure App Service with Azure DevOps](https://dotnetthoughts.net/deploying-php-app-to-appservice-with-azure-devops/)
 - [Deploying Angular with ASP.​NET MVC 5 on IIS](https://dotnetthoughts.net/deploying-angular-with-asp-net-mvc-5-on-iis/)
 - [The workflow must be associated with an integration account - Azure Logic App](https://dotnetthoughts.net/using-excute-javascript-code-action-in-azure-logic-app/)
 - [OData (Open Data Protocol) in ASP.NET 6.0](https://dotnetthoughts.net/odata-in-aspnet-core6/)
@@ -18,5 +19,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Continuous database deployment with GitHub Actions](https://dotnetthoughts.net/continuous-database-deployment-with-github-actions/)
 - [Run EF Core Migrations in multiple databases with Azure DevOps](https://dotnetthoughts.net/run-ef-core-migrations-in-multiple-databases-with-azure-devops/)
 - [Authenticating ASP.NET Core MVC applications with Azure Active Directory B2C - User flows - Part2](https://dotnetthoughts.net/azure-active-directory-b2c-in-aspnet-core-mvc-part2/)
-- [Authenticating ASP.NET Core MVC applications with Azure Active Directory B2C - Part1](https://dotnetthoughts.net/azure-active-directory-b2c-in-aspnet-core-mvc-part1/)
 <!-- BLOGPOSTS:END -->
