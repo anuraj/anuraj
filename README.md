@@ -9,6 +9,8 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [GraphQL in ASP.NET Core with EF Core](https://dotnetthoughts.net/graphql-in-aspnetcore-with-efcore/)
+- [Getting started with GraphQL in ASP.NET Core](https://dotnetthoughts.net/getting-started-with-graphql-aspnetcore/)
 - [Access data with managed identity - Azure App Service](https://dotnetthoughts.net/access-data-with-managed-identity-azure-app-service/)
 - [Implementing Content Security Policy (CSP) in ASP.NET Core](https://dotnetthoughts.net/implementing-content-security-policy-in-aspnetcore/)
 - [Deploying PHP Applications to Azure App Service with Azure DevOps](https://dotnetthoughts.net/deploying-php-app-to-appservice-with-azure-devops/)
@@ -17,6 +19,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [OData (Open Data Protocol) in ASP.NET 6.0](https://dotnetthoughts.net/odata-in-aspnet-core6/)
 - [Working with DevOps friendly EF Core Migration Bundles](https://dotnetthoughts.net/working-with-ef-core-migration-bundles/)
 - [How to implement two-factor authentication in ASP.NET Core without Identity](https://dotnetthoughts.net/how-to-implement-2fa-with-aspnet-core-without-identity/)
-- [ASP.NET Core Web.config Transform for Production](https://dotnetthoughts.net/asp-net-core-web-config-transform-for-production/)
-- [Continuous database deployment with GitHub Actions](https://dotnetthoughts.net/continuous-database-deployment-with-github-actions/)
 <!-- BLOGPOSTS:END -->
