@@ -9,6 +9,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Working with model validation in Minimal APIs](https://dotnetthoughts.net/working-model-validation-in-minimal-api/)
 - [GraphQL in ASP.NET Core with EF Core](https://dotnetthoughts.net/graphql-in-aspnetcore-with-efcore/)
 - [GraphQL multiple requests and EF Core DbContext](https://dotnetthoughts.net/graphql-multiple-operations-and-efcore/)
 - [Getting started with GraphQL in ASP.NET Core](https://dotnetthoughts.net/getting-started-with-graphql-aspnetcore/)
@@ -18,5 +19,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Deploying Angular with ASP.​NET MVC 5 on IIS](https://dotnetthoughts.net/deploying-angular-with-asp-net-mvc-5-on-iis/)
 - [The workflow must be associated with an integration account - Azure Logic App](https://dotnetthoughts.net/using-excute-javascript-code-action-in-azure-logic-app/)
 - [OData (Open Data Protocol) in ASP.NET 6.0](https://dotnetthoughts.net/odata-in-aspnet-core6/)
-- [Working with DevOps friendly EF Core Migration Bundles](https://dotnetthoughts.net/working-with-ef-core-migration-bundles/)
 <!-- BLOGPOSTS:END -->
