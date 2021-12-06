@@ -9,6 +9,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Create Azure Functions with GraphQL Support](https://dotnetthoughts.net/create-azure-functions-with-graphql-support/)
 - [GraphQL Subscriptions in ASP.NET Core](https://dotnetthoughts.net/graphql-subscription-in-aspnetcore/)
 - [Azure Functions - Could not load file or assembly System.Text.Encoding.CodePages](https://dotnetthoughts.net/azure-functions-could-not-load-file-or-assembly/)
 - [GraphQL Mutations in ASP.NET Core](https://dotnetthoughts.net/graphql-mutations-in-aspnetcore/)
@@ -18,5 +19,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Getting started with GraphQL in ASP.NET Core](https://dotnetthoughts.net/getting-started-with-graphql-aspnetcore/)
 - [Access data with managed identity - Azure App Service](https://dotnetthoughts.net/access-data-with-managed-identity-azure-app-service/)
 - [Implementing Content Security Policy (CSP) in ASP.NET Core](https://dotnetthoughts.net/implementing-content-security-policy-in-aspnetcore/)
-- [Deploying PHP Applications to Azure App Service with Azure DevOps](https://dotnetthoughts.net/deploying-php-app-to-appservice-with-azure-devops/)
 <!-- BLOGPOSTS:END -->
