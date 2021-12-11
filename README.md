@@ -9,6 +9,8 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Integration Testing ASP.NET Core 6 Minimal APIs](https://dotnetthoughts.net/dotnet-minimal-api-integration-testing/)
+- [Bring your own functions to Azure Static Web Apps](https://dotnetthoughts.net/bring-your-own-functions-in-azure-static-webapps/)
 - [Handling file uploads in Open API with ASP.NET Core](https://dotnetthoughts.net/handling-file-uploads-in-openapi-with-aspnet-core/)
 - [Create Azure Functions with GraphQL Support](https://dotnetthoughts.net/create-azure-functions-with-graphql-support/)
 - [GraphQL Subscriptions in ASP.NET Core](https://dotnetthoughts.net/graphql-subscription-in-aspnetcore/)
@@ -17,6 +19,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Working with model validation in Minimal APIs](https://dotnetthoughts.net/working-model-validation-in-minimal-api/)
 - [GraphQL in ASP.NET Core with EF Core](https://dotnetthoughts.net/graphql-in-aspnetcore-with-efcore/)
 - [GraphQL multiple requests and EF Core DbContext](https://dotnetthoughts.net/graphql-multiple-operations-and-efcore/)
-- [Getting started with GraphQL in ASP.NET Core](https://dotnetthoughts.net/getting-started-with-graphql-aspnetcore/)
-- [Access data with managed identity - Azure App Service](https://dotnetthoughts.net/access-data-with-managed-identity-azure-app-service/)
 <!-- BLOGPOSTS:END -->
