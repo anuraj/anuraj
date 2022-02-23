@@ -9,6 +9,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Implementing an API Gateway in ASP.NET Core with Ocelot](https://dotnetthoughts.net/implementing-api-gateway-in-aspnet-core-with-ocelot/)
 - [Angular Server Side Rendering on Azure Static Web Apps](https://dotnetthoughts.net/angular-server-side-rendering-azure-static-webapps/)
 - [Implementing Basic Authentication in ASP.NET Core Minimal API](https://dotnetthoughts.net/implementing-basic-authentication-in-minimal-webapi/)
 - [Azure Functions consumption plan naming](https://dotnetthoughts.net/azure-functions-consumption-plan-naming/)
@@ -18,5 +19,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Handling file uploads in Open API with ASP.NET Core](https://dotnetthoughts.net/handling-file-uploads-in-openapi-with-aspnet-core/)
 - [Create Azure Functions with GraphQL Support](https://dotnetthoughts.net/create-azure-functions-with-graphql-support/)
 - [GraphQL Subscriptions in ASP.NET Core](https://dotnetthoughts.net/graphql-subscription-in-aspnetcore/)
-- [Azure Functions - Could not load file or assembly System.Text.Encoding.CodePages](https://dotnetthoughts.net/azure-functions-could-not-load-file-or-assembly/)
 <!-- BLOGPOSTS:END -->
