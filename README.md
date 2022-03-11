@@ -9,6 +9,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Consuming a GraphQL API with Angular](https://dotnetthoughts.net/consuming-graphql-api-with-angular/)
 - [Working with Feature Flags in ASP.NET Core MVC application](https://dotnetthoughts.net/adding-feature-flags-to-an-asp-net-core-app-part2/)
 - [Adding feature flags to an ASP.NET Core app](https://dotnetthoughts.net/adding-feature-flags-to-an-asp-net-core-app-part1/)
 - [Building a simple Tweet Bot using Azure Logic Apps](https://dotnetthoughts.net/building-a-simple-tweet-bot-using-azure-logic-apps/)
@@ -18,5 +19,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Azure Functions consumption plan naming](https://dotnetthoughts.net/azure-functions-consumption-plan-naming/)
 - [Migrating from ASP.NET Core 5.0 MVC app to 6.0](https://dotnetthoughts.net/migrating-aspnet-core5-mvc-app-to-aspnet-core6/)
 - [Integration Testing ASP.NET Core 6 Minimal APIs](https://dotnetthoughts.net/dotnet-minimal-api-integration-testing/)
-- [Bring your own functions to Azure Static Web Apps](https://dotnetthoughts.net/bring-your-own-functions-in-azure-static-webapps/)
 <!-- BLOGPOSTS:END -->
