@@ -9,6 +9,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Improve Angular performance with Gzip compression on Azure Storage](https://dotnetthoughts.net/improve-angular-performance-with-gzip-compression-azure-blog-storage/)
 - [Implementing Rate Limiting in ASP.NET Core Web API](https://dotnetthoughts.net/implement-rate-limiting-in-asp-net-core-web-api/)
 - [Introducing Azure Load Testing](https://dotnetthoughts.net/introducing-azure-load-testing/)
 - [How to secure Azure Functions with Azure Active Directory B2C](https://dotnetthoughts.net/how-to-secure-azure-functions-with-azure-b2c/)
@@ -18,5 +19,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Adding feature flags to an ASP.NET Core app](https://dotnetthoughts.net/adding-feature-flags-to-an-asp-net-core-app-part1/)
 - [Building a simple Tweet Bot using Azure Logic Apps](https://dotnetthoughts.net/building-a-simple-tweet-bot-using-azure-logic-apps/)
 - [Implementing an API Gateway in ASP.NET Core with Ocelot](https://dotnetthoughts.net/implementing-api-gateway-in-aspnet-core-with-ocelot/)
-- [Angular Server Side Rendering on Azure Static Web Apps](https://dotnetthoughts.net/angular-server-side-rendering-azure-static-webapps/)
 <!-- BLOGPOSTS:END -->
