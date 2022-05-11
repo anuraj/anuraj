@@ -9,6 +9,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Mapping a wildcard domain name to an Azure App Services](https://dotnetthoughts.net/mapping-a-wildcard-domain-name-to-an-azure-app-services/)
 - [Deploying on Azure Functions - GitHub Actions](https://dotnetthoughts.net/deploying-on-azure-functions-github-actions/)
 - [Improve Angular performance with Gzip compression on Azure Storage](https://dotnetthoughts.net/improve-angular-performance-with-gzip-compression-azure-blog-storage/)
 - [Implementing Rate Limiting in ASP.NET Core Web API](https://dotnetthoughts.net/implement-rate-limiting-in-asp-net-core-web-api/)
@@ -18,5 +19,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Consuming a GraphQL API with Angular](https://dotnetthoughts.net/consuming-graphql-api-with-angular/)
 - [Working with Feature Flags in ASP.NET Core MVC application](https://dotnetthoughts.net/adding-feature-flags-to-an-asp-net-core-app-part2/)
 - [Adding feature flags to an ASP.NET Core app](https://dotnetthoughts.net/adding-feature-flags-to-an-asp-net-core-app-part1/)
-- [Building a simple Tweet Bot using Azure Logic Apps](https://dotnetthoughts.net/building-a-simple-tweet-bot-using-azure-logic-apps/)
 <!-- BLOGPOSTS:END -->
