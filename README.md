@@ -9,6 +9,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Setting up an Azure Virtual Machine as Azure DevOps build agent](https://dotnetthoughts.net/setting-up-an-azure-vm-devops-build-agent/)
 - [Mapping a wildcard domain name to an Azure App Services](https://dotnetthoughts.net/mapping-a-wildcard-domain-name-to-an-azure-app-services/)
 - [Deploying on Azure Functions - GitHub Actions](https://dotnetthoughts.net/deploying-on-azure-functions-github-actions/)
 - [Improve Angular performance with Gzip compression on Azure Storage](https://dotnetthoughts.net/improve-angular-performance-with-gzip-compression-azure-blog-storage/)
@@ -18,5 +19,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Block Azure B2C Users with Microsoft Graph and ASP.NET Core](https://dotnetthoughts.net/block-azure-b2c-users-with-microsoft-graph-and-asp-net-core/)
 - [Consuming a GraphQL API with Angular](https://dotnetthoughts.net/consuming-graphql-api-with-angular/)
 - [Working with Feature Flags in ASP.NET Core MVC application](https://dotnetthoughts.net/adding-feature-flags-to-an-asp-net-core-app-part2/)
-- [Adding feature flags to an ASP.NET Core app](https://dotnetthoughts.net/adding-feature-flags-to-an-asp-net-core-app-part1/)
 <!-- BLOGPOSTS:END -->
