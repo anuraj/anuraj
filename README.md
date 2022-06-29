@@ -10,6 +10,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
 - [Automate Security Testing with ZAP and GitHub Actions](https://dotnetthoughts.net/automate-security-testing-with-zap-and-github-actions/)
+- [Handling multiple submit buttons in a single form in ASP.NET Core](https://dotnetthoughts.net/multiple-submit-button-in-a-single-form-aspnet-core/)
 - [Deploying a Static Site to Azure Using the az CLI](https://dotnetthoughts.net/deploying-a-static-site-to-azure-using-the-az-cli/)
 - [Setting up an Azure Virtual Machine as Azure DevOps build agent](https://dotnetthoughts.net/setting-up-an-azure-vm-devops-build-agent/)
 - [Mapping a wildcard domain name to an Azure App Services](https://dotnetthoughts.net/mapping-a-wildcard-domain-name-to-an-azure-app-services/)
@@ -18,5 +19,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Implementing Rate Limiting in ASP.NET Core Web API](https://dotnetthoughts.net/implement-rate-limiting-in-asp-net-core-web-api/)
 - [Introducing Azure Load Testing](https://dotnetthoughts.net/introducing-azure-load-testing/)
 - [How to secure Azure Functions with Azure Active Directory B2C](https://dotnetthoughts.net/how-to-secure-azure-functions-with-azure-b2c/)
-- [Block Azure B2C Users with Microsoft Graph and ASP.NET Core](https://dotnetthoughts.net/block-azure-b2c-users-with-microsoft-graph-and-asp-net-core/)
 <!-- BLOGPOSTS:END -->
