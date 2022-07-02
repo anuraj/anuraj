@@ -7,6 +7,9 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 * https://github.com/anuraj
 * https://www.linkedin.com/in/anurajp/
 
+### Blog
+* https://dotnetthoughts.net/
+
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
 - [Implementing Breadcrumbs in ASP.NET Core](https://dotnetthoughts.net/implementing-breadcrumbs-in-aspnetcore/)
