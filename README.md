@@ -12,6 +12,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Unit Testing ASP.NET Core Minimal APIs](https://dotnetthoughts.net/unittest-aspnetcore-minimal-apis/)
 - [Custom scaffold templates in ASP.NET Core](https://dotnetthoughts.net/custom-scaffold-templates-in-asp-net-core/)
 - [Building Minimal API endpoints from EF Core DbContext](https://dotnetthoughts.net/building-minimal-api-endpoints-from-dbcontext/)
 - [Working with Database First Approach in Entity Framework Core](https://dotnetthoughts.net/working-with-database-first-approach-in-efcore/)
@@ -21,5 +22,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Handling multiple submit buttons in a single form in ASP.NET Core](https://dotnetthoughts.net/multiple-submit-button-in-a-single-form-aspnet-core/)
 - [Deploying a Static Site to Azure Using the az CLI](https://dotnetthoughts.net/deploying-a-static-site-to-azure-using-the-az-cli/)
 - [Setting up an Azure Virtual Machine as Azure DevOps build agent](https://dotnetthoughts.net/setting-up-an-azure-vm-devops-build-agent/)
-- [Mapping a wildcard domain name to an Azure App Services](https://dotnetthoughts.net/mapping-a-wildcard-domain-name-to-an-azure-app-services/)
 <!-- BLOGPOSTS:END -->
