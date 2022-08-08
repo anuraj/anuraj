@@ -12,6 +12,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Creating your first Azure Container App](https://dotnetthoughts.net/creating-your-first-azure-container-app/)
 - [Mount your Azure Cloud Shell to another Storage Account](https://dotnetthoughts.net/mount-your-azure-cloud-shell-to-another-storage-account/)
 - [Unit Testing ASP.NET Core Minimal APIs](https://dotnetthoughts.net/unittest-aspnetcore-minimal-apis/)
 - [Custom scaffold templates in ASP.NET Core](https://dotnetthoughts.net/custom-scaffold-templates-in-asp-net-core/)
@@ -21,5 +22,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Implementing paging in ASP.NET Core MVC](https://dotnetthoughts.net/implementing-paging-in-aspnetcore/)
 - [Automate Security Testing with ZAP and GitHub Actions](https://dotnetthoughts.net/automate-security-testing-with-zap-and-github-actions/)
 - [Handling multiple submit buttons in a single form in ASP.NET Core](https://dotnetthoughts.net/multiple-submit-button-in-a-single-form-aspnet-core/)
-- [Deploying a Static Site to Azure Using the az CLI](https://dotnetthoughts.net/deploying-a-static-site-to-azure-using-the-az-cli/)
 <!-- BLOGPOSTS:END -->
