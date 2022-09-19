@@ -12,6 +12,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Implementing Google Web Risk API in ASPNET Core](https://dotnetthoughts.net/implementing-google-webrisk-aspi-in-aspnetcore/)
 - [Streaming Videos from Azure Blob Storage](https://dotnetthoughts.net/streaming-videos-from-azure-blob-storage/)
 - [Custom Model Binding in ASP.NET Core Minimal APIs](https://dotnetthoughts.net/custom-model-binding-aspnet-6-minimal-apis/)
 - [Create Containerized Build Agents with Azure DevOps Pipelines](https://dotnetthoughts.net/create-containerized-build-agents-with-azure-devops-pipelines/)
@@ -21,5 +22,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Unit Testing ASP.NET Core Minimal APIs](https://dotnetthoughts.net/unittest-aspnetcore-minimal-apis/)
 - [Custom scaffold templates in ASP.NET Core](https://dotnetthoughts.net/custom-scaffold-templates-in-asp-net-core/)
 - [Building Minimal API endpoints from EF Core DbContext](https://dotnetthoughts.net/building-minimal-api-endpoints-from-dbcontext/)
-- [Working with Database First Approach in Entity Framework Core](https://dotnetthoughts.net/working-with-database-first-approach-in-efcore/)
 <!-- BLOGPOSTS:END -->
