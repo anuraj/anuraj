@@ -12,6 +12,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Generating Code Coverage Reports in .NET Core](https://dotnetthoughts.net/generating-code-coverage-reports-in-dotnet-core/)
 - [Change schema name in Entity Framework Core](https://dotnetthoughts.net/change-schema-name-in-entity-framework-core/)
 - [Add Unit Tests To Your Azure Functions](https://dotnetthoughts.net/add-unit-tests-to-your-functions/)
 - [Building ASP.NET Core Minimal API in VB.NET](https://dotnetthoughts.net/building-aspnetcore-minimal-api-in-vbnet/)
@@ -21,5 +22,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Create Containerized Build Agents with Azure DevOps Pipelines](https://dotnetthoughts.net/create-containerized-build-agents-with-azure-devops-pipelines/)
 - [API Versioning with ASP.NET Core 6.0 Minimal APIs](https://dotnetthoughts.net/aspnetcore-api-versioning-with-net-6-minimal-apis/)
 - [Creating your first Azure Container App](https://dotnetthoughts.net/creating-your-first-azure-container-app/)
-- [Mount your Azure Cloud Shell to another Storage Account](https://dotnetthoughts.net/mount-your-azure-cloud-shell-to-another-storage-account/)
 <!-- BLOGPOSTS:END -->
