@@ -12,6 +12,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Creating Containers in .NET 7 with the .NET CLI](https://dotnetthoughts.net/creating-docker-containers-with-the-dotnet-cli/)
 - [Integrate logging in a ASP.NET Core application using Serilog and Seq](https://dotnetthoughts.net/integrate-logging-in-a-asp.net-core-application-using-serilog-and-seq/)
 - [Generating Code Coverage Reports in .NET Core](https://dotnetthoughts.net/generating-code-coverage-reports-in-dotnet-core/)
 - [Change schema name in Entity Framework Core](https://dotnetthoughts.net/change-schema-name-in-entity-framework-core/)
@@ -21,5 +22,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Streaming Videos from Azure Blob Storage](https://dotnetthoughts.net/streaming-videos-from-azure-blob-storage/)
 - [Custom Model Binding in ASP.NET Core Minimal APIs](https://dotnetthoughts.net/custom-model-binding-aspnet-6-minimal-apis/)
 - [Create Containerized Build Agents with Azure DevOps Pipelines](https://dotnetthoughts.net/create-containerized-build-agents-with-azure-devops-pipelines/)
-- [API Versioning with ASP.NET Core 6.0 Minimal APIs](https://dotnetthoughts.net/aspnetcore-api-versioning-with-net-6-minimal-apis/)
 <!-- BLOGPOSTS:END -->
