@@ -12,6 +12,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Build and run Angular application in a Docker container](https://dotnetthoughts.net/build-and-run-angular-application-in-a-docker-container/)
 - [Creating JSON Web Tokens using dotnet user-jwts tool](https://dotnetthoughts.net/creating-jwt-using-dotnet-user-jwts/)
 - [Creating Containers in .NET 7 with the .NET CLI](https://dotnetthoughts.net/creating-docker-containers-with-the-dotnet-cli/)
 - [Integrate logging in a ASP.NET Core application using Serilog and Seq](https://dotnetthoughts.net/integrate-logging-in-a-asp.net-core-application-using-serilog-and-seq/)
@@ -21,5 +22,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Building ASP.NET Core Minimal API in VB.NET](https://dotnetthoughts.net/building-aspnetcore-minimal-api-in-vbnet/)
 - [Implementing Google Web Risk API in ASPNET Core](https://dotnetthoughts.net/implementing-google-webrisk-aspi-in-aspnetcore/)
 - [Streaming Videos from Azure Blob Storage](https://dotnetthoughts.net/streaming-videos-from-azure-blob-storage/)
-- [Custom Model Binding in ASP.NET Core Minimal APIs](https://dotnetthoughts.net/custom-model-binding-aspnet-6-minimal-apis/)
 <!-- BLOGPOSTS:END -->
