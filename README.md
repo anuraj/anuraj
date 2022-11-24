@@ -12,6 +12,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Use dev tunnels in Visual Studio to debug your web APIs](https://dotnetthoughts.net/use-dev-tunnels-in-visual-studio-to-debug-your-web-apis/)
 - [Build and run Angular application in a Docker container](https://dotnetthoughts.net/build-and-run-angular-application-in-a-docker-container/)
 - [Creating JSON Web Tokens using dotnet user-jwts tool](https://dotnetthoughts.net/creating-jwt-using-dotnet-user-jwts/)
 - [Creating Containers in .NET 7 with the .NET CLI](https://dotnetthoughts.net/creating-docker-containers-with-the-dotnet-cli/)
@@ -21,5 +22,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Add Unit Tests To Your Azure Functions](https://dotnetthoughts.net/add-unit-tests-to-your-functions/)
 - [Building ASP.NET Core Minimal API in VB.NET](https://dotnetthoughts.net/building-aspnetcore-minimal-api-in-vbnet/)
 - [Implementing Google Web Risk API in ASPNET Core](https://dotnetthoughts.net/implementing-google-webrisk-aspi-in-aspnetcore/)
-- [Streaming Videos from Azure Blob Storage](https://dotnetthoughts.net/streaming-videos-from-azure-blob-storage/)
 <!-- BLOGPOSTS:END -->
