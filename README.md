@@ -12,6 +12,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Publish docker images to GitHub Container Registry (ghcr)](https://dotnetthoughts.net/publish-images-to-github-container-registry/)
 - [Use dev tunnels in Visual Studio to debug your web APIs](https://dotnetthoughts.net/use-dev-tunnels-in-visual-studio-to-debug-your-web-apis/)
 - [Build and run Angular application in a Docker container](https://dotnetthoughts.net/build-and-run-angular-application-in-a-docker-container/)
 - [Creating JSON Web Tokens using dotnet user-jwts tool](https://dotnetthoughts.net/creating-jwt-using-dotnet-user-jwts/)
@@ -21,5 +22,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Change schema name in Entity Framework Core](https://dotnetthoughts.net/change-schema-name-in-entity-framework-core/)
 - [Add Unit Tests To Your Azure Functions](https://dotnetthoughts.net/add-unit-tests-to-your-functions/)
 - [Building ASP.NET Core Minimal API in VB.NET](https://dotnetthoughts.net/building-aspnetcore-minimal-api-in-vbnet/)
-- [Implementing Google Web Risk API in ASPNET Core](https://dotnetthoughts.net/implementing-google-webrisk-aspi-in-aspnetcore/)
 <!-- BLOGPOSTS:END -->
