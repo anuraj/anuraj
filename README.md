@@ -12,6 +12,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Automated versioning and package publishing using GitHub Actions](https://dotnetthoughts.net/automated-versioning-and-package-publishing-using-github-actions/)
 - [How to Create and Publish a NuGet Package with dotnet CLI](https://dotnetthoughts.net/how-to-create-and-publish-a-nuget-package-with-dotnet-cli/)
 - [Publish docker images to GitHub Container Registry (ghcr)](https://dotnetthoughts.net/publish-images-to-github-container-registry/)
 - [Use dev tunnels in Visual Studio to debug your web APIs](https://dotnetthoughts.net/use-dev-tunnels-in-visual-studio-to-debug-your-web-apis/)
@@ -21,5 +22,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Integrate logging in a ASP.NET Core application using Serilog and Seq](https://dotnetthoughts.net/integrate-logging-in-a-asp.net-core-application-using-serilog-and-seq/)
 - [Generating Code Coverage Reports in .NET Core](https://dotnetthoughts.net/generating-code-coverage-reports-in-dotnet-core/)
 - [Change schema name in Entity Framework Core](https://dotnetthoughts.net/change-schema-name-in-entity-framework-core/)
-- [Add Unit Tests To Your Azure Functions](https://dotnetthoughts.net/add-unit-tests-to-your-functions/)
 <!-- BLOGPOSTS:END -->
