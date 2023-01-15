@@ -12,6 +12,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Implementing CRUD operations with ASP.NET Core Web API and Mongo DB](https://dotnetthoughts.net/implementing-crud-operations-with-webapi-and-mongodb/)
 - [Implementing Authentication in Azure Static Web Apps - Part 2](https://dotnetthoughts.net/implementing-authentication-in-static-web-apps-part2/)
 - [Implementing Authentication in Azure Static Web Apps - Part 1](https://dotnetthoughts.net/implementing-authentication-in-static-web-apps-part1/)
 - [Automated versioning and package publishing using GitHub Actions](https://dotnetthoughts.net/automated-versioning-and-package-publishing-using-github-actions/)
@@ -21,5 +22,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Build and run Angular application in a Docker container](https://dotnetthoughts.net/build-and-run-angular-application-in-a-docker-container/)
 - [Creating JSON Web Tokens using dotnet user-jwts tool](https://dotnetthoughts.net/creating-jwt-using-dotnet-user-jwts/)
 - [Creating Containers in .NET 7 with the .NET CLI](https://dotnetthoughts.net/creating-docker-containers-with-the-dotnet-cli/)
-- [Integrate logging in a ASP.NET Core application using Serilog and Seq](https://dotnetthoughts.net/integrate-logging-in-a-asp.net-core-application-using-serilog-and-seq/)
 <!-- BLOGPOSTS:END -->
