@@ -12,6 +12,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Getting started with Data API builder for Azure SQL Database or SQL Server](https://dotnetthoughts.net/getting-started-with-data-api-builder-for-azure-sql-database/)
 - [Improve application startup time with EF Core compiled models](https://dotnetthoughts.net/improve-ef-core-performance-with-compiled-models/)
 - [Improving EF Core performance with Compiled Queries](https://dotnetthoughts.net/improve-ef-core-performance-with-compiled-queries/)
 - [Implementing CRUD operations with ASP.NET Core Web API and Mongo DB](https://dotnetthoughts.net/implementing-crud-operations-with-webapi-and-mongodb/)
@@ -21,5 +22,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [How to Create and Publish a NuGet Package with dotnet CLI](https://dotnetthoughts.net/how-to-create-and-publish-a-nuget-package-with-dotnet-cli/)
 - [Publish docker images to GitHub Container Registry (ghcr)](https://dotnetthoughts.net/publish-images-to-github-container-registry/)
 - [Use dev tunnels in Visual Studio to debug your web APIs](https://dotnetthoughts.net/use-dev-tunnels-in-visual-studio-to-debug-your-web-apis/)
-- [Build and run Angular application in a Docker container](https://dotnetthoughts.net/build-and-run-angular-application-in-a-docker-container/)
 <!-- BLOGPOSTS:END -->
