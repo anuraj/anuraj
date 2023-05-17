@@ -12,6 +12,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Azure SQL output binding for Azure Functions](https://dotnetthoughts.net/azure-sql-output-bindings-for-azure-functions/)
 - [Azure SQL input binding for Azure Functions](https://dotnetthoughts.net/azure-sql-input-bindings-for-azure-functions/)
 - [Configure Auto Scaling in Azure App Service](https://dotnetthoughts.net/configure-auto-scaling-in-azure-app-service/)
 - [Getting started with Data API builder for Azure SQL Database or SQL Server](https://dotnetthoughts.net/getting-started-with-data-api-builder-for-azure-sql-database/)
@@ -21,5 +22,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Implementing Authentication in Azure Static Web Apps - Part 2](https://dotnetthoughts.net/implementing-authentication-in-static-web-apps-part2/)
 - [Implementing Authentication in Azure Static Web Apps - Part 1](https://dotnetthoughts.net/implementing-authentication-in-static-web-apps-part1/)
 - [Automated versioning and package publishing using GitHub Actions](https://dotnetthoughts.net/automated-versioning-and-package-publishing-using-github-actions/)
-- [How to Create and Publish a NuGet Package with dotnet CLI](https://dotnetthoughts.net/how-to-create-and-publish-a-nuget-package-with-dotnet-cli/)
 <!-- BLOGPOSTS:END -->
