@@ -13,6 +13,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
 - [Deploy a website with Azure virtual machines - Configuring domain name](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part2/)
+- [Deploy a website with Azure virtual machines - Deploying ASP.NET Core application](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part3/)
 - [Deploy a website with Azure virtual machines - Creating Virtual machine](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part1/)
 - [Implementing database change notification using SignalR and Azure Functions](https://dotnetthoughts.net/implementing-database-change-notification-using-signalr/)
 - [Azure SQL triggers for Azure Functions](https://dotnetthoughts.net/azure-sql-triggers-for-azure-functions/)
@@ -21,5 +22,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Configure Auto Scaling in Azure App Service](https://dotnetthoughts.net/configure-auto-scaling-in-azure-app-service/)
 - [Getting started with Data API builder for Azure SQL Database or SQL Server](https://dotnetthoughts.net/getting-started-with-data-api-builder-for-azure-sql-database/)
 - [Improve application startup time with EF Core compiled models](https://dotnetthoughts.net/improve-ef-core-performance-with-compiled-models/)
-- [Improving EF Core performance with Compiled Queries](https://dotnetthoughts.net/improve-ef-core-performance-with-compiled-queries/)
 <!-- BLOGPOSTS:END -->
