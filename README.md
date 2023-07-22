@@ -12,6 +12,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Deploy a website with Azure virtual machines - Configuring SSL certificates](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part4/)
 - [Deploy a website with Azure virtual machines - Configuring domain name](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part2/)
 - [Deploy a website with Azure virtual machines - Deploying ASP.NET Core application](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part3/)
 - [Deploy a website with Azure virtual machines - Creating Virtual machine](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part1/)
@@ -21,5 +22,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Azure SQL input binding for Azure Functions](https://dotnetthoughts.net/azure-sql-input-bindings-for-azure-functions/)
 - [Configure Auto Scaling in Azure App Service](https://dotnetthoughts.net/configure-auto-scaling-in-azure-app-service/)
 - [Getting started with Data API builder for Azure SQL Database or SQL Server](https://dotnetthoughts.net/getting-started-with-data-api-builder-for-azure-sql-database/)
-- [Improve application startup time with EF Core compiled models](https://dotnetthoughts.net/improve-ef-core-performance-with-compiled-models/)
 <!-- BLOGPOSTS:END -->
