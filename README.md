@@ -12,6 +12,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Deploy a website with Azure virtual machines - Configuring CI/CD pipelines](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part6/)
 - [Deploy a website with Azure virtual machines - Configuring SSL certificates](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part5/)
 - [Deploy a website with Azure virtual machines - Creating SSL certificates](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part4/)
 - [Deploy a website with Azure virtual machines - Configuring domain name](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part2/)
@@ -21,5 +22,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Azure SQL triggers for Azure Functions](https://dotnetthoughts.net/azure-sql-triggers-for-azure-functions/)
 - [Azure SQL output binding for Azure Functions](https://dotnetthoughts.net/azure-sql-output-bindings-for-azure-functions/)
 - [Azure SQL input binding for Azure Functions](https://dotnetthoughts.net/azure-sql-input-bindings-for-azure-functions/)
-- [Configure Auto Scaling in Azure App Service](https://dotnetthoughts.net/configure-auto-scaling-in-azure-app-service/)
 <!-- BLOGPOSTS:END -->
