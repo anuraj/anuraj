@@ -12,6 +12,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Deploying ASP.NET Core applications to Azure App service from Bitbucket](https://dotnetthoughts.net/deploying-an-aspnetcore-from-bitbucket/)
 - [Deploy a website with Azure virtual machines - Configuring CI/CD pipelines](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part6/)
 - [Deploy a website with Azure virtual machines - Configuring SSL certificates](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part5/)
 - [Deploy a website with Azure virtual machines - Creating SSL certificates](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part4/)
@@ -21,5 +22,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Implementing database change notification using SignalR and Azure Functions](https://dotnetthoughts.net/implementing-database-change-notification-using-signalr/)
 - [Azure SQL triggers for Azure Functions](https://dotnetthoughts.net/azure-sql-triggers-for-azure-functions/)
 - [Azure SQL output binding for Azure Functions](https://dotnetthoughts.net/azure-sql-output-bindings-for-azure-functions/)
-- [Azure SQL input binding for Azure Functions](https://dotnetthoughts.net/azure-sql-input-bindings-for-azure-functions/)
 <!-- BLOGPOSTS:END -->
