@@ -12,6 +12,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Using Docker environment variables at JavaScript runtime](https://dotnetthoughts.net/using-docker-environment-variables-at-javascript-runtime/)
 - [Continuous database deployments to Azure Sql Server with Bitbucket](https://dotnetthoughts.net/continuous-database-deployments-to-azure-sql-server-with-bitbucket/)
 - [Deploying ASP.NET Core applications to Azure App service from Bitbucket](https://dotnetthoughts.net/deploying-an-aspnetcore-from-bitbucket/)
 - [Deploy a website with Azure virtual machines - Configuring CI/CD pipelines](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part6/)
@@ -21,5 +22,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Deploy a website with Azure virtual machines - Deploying ASP.NET Core application](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part3/)
 - [Deploy a website with Azure virtual machines - Creating Virtual machine](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part1/)
 - [Implementing database change notification using SignalR and Azure Functions](https://dotnetthoughts.net/implementing-database-change-notification-using-signalr/)
-- [Azure SQL triggers for Azure Functions](https://dotnetthoughts.net/azure-sql-triggers-for-azure-functions/)
 <!-- BLOGPOSTS:END -->
