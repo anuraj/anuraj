@@ -12,6 +12,7 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Working with dotnet8 projects in Visual Studio 2022](https://dotnetthoughts.net/working-with-dotnet8-projects-in-vs2022/)
 - [How to use native AOT to improve performance of ASP.NET Core apps](https://dotnetthoughts.net/how-to-use-native-aot-to-improve-performance-of-aspnetcore-apps/)
 - [Using Docker environment variables at JavaScript runtime](https://dotnetthoughts.net/using-docker-environment-variables-at-javascript-runtime/)
 - [Continuous database deployments to Azure Sql Server with Bitbucket](https://dotnetthoughts.net/continuous-database-deployments-to-azure-sql-server-with-bitbucket/)
@@ -21,5 +22,4 @@ I'm a Product Architect @ [Socxo](https://www.socxo.com/) - Advocacy Marketing P
 - [Deploy a website with Azure virtual machines - Creating SSL certificates](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part4/)
 - [Deploy a website with Azure virtual machines - Configuring domain name](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part2/)
 - [Deploy a website with Azure virtual machines - Deploying ASP.NET Core application](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part3/)
-- [Deploy a website with Azure virtual machines - Creating Virtual machine](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part1/)
 <!-- BLOGPOSTS:END -->
