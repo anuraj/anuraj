@@ -12,6 +12,7 @@ I'm CTO @ [Socxo](https://www.socxo.com/) - Advocacy Marketing Platform | Brand 
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Integrate OpenAI APIs in ASP.NET Core](https://dotnetthoughts.net/integrate-openai-apis-in-aspnet-core/)
 - [Creating Microsoft Teams Applications with Visual Studio and .NET](https://dotnetthoughts.net/creating-microsoft-teams-apps-with-dotnet-and-vs/)
 - [Create a web API with ASP.NET Core and MongoDB](https://dotnetthoughts.net/create-a-web-api-with-aspnet-core-and-mongodb/)
 - [Working with dotnet8 projects in Visual Studio 2022](https://dotnetthoughts.net/working-with-dotnet8-projects-in-vs2022/)
@@ -21,5 +22,4 @@ I'm CTO @ [Socxo](https://www.socxo.com/) - Advocacy Marketing Platform | Brand 
 - [Deploying ASP.NET Core applications to Azure App service from Bitbucket](https://dotnetthoughts.net/deploying-an-aspnetcore-from-bitbucket/)
 - [Deploy a website with Azure virtual machines - Configuring CI/CD pipelines](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part6/)
 - [Deploy a website with Azure virtual machines - Configuring SSL certificates](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part5/)
-- [Deploy a website with Azure virtual machines - Creating SSL certificates](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part4/)
 <!-- BLOGPOSTS:END -->
