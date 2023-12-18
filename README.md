@@ -12,7 +12,9 @@ I'm CTO @ [Socxo](https://www.socxo.com/) - Advocacy Marketing Platform | Brand 
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
-- [Integrate OpenAI APIs in ASP.NET Core](https://dotnetthoughts.net/integrate-openai-apis-in-aspnet-core/)
+- [Getting started with .NET Aspire](https://dotnetthoughts.net/getting-started-with-dotnet-aspire/)
+- [Building Sql Server Database projects with dotnet CLI](https://dotnetthoughts.net/build-sqlserver-database-projects-with-dotnet-cli/)
+- [Integrate OpenAI API in ASP.NET Core](https://dotnetthoughts.net/integrate-openai-api-in-aspnet-core/)
 - [Creating Microsoft Teams Applications with Visual Studio and .NET](https://dotnetthoughts.net/creating-microsoft-teams-apps-with-dotnet-and-vs/)
 - [Create a web API with ASP.NET Core and MongoDB](https://dotnetthoughts.net/create-a-web-api-with-aspnet-core-and-mongodb/)
 - [Working with dotnet8 projects in Visual Studio 2022](https://dotnetthoughts.net/working-with-dotnet8-projects-in-vs2022/)
@@ -20,6 +22,4 @@ I'm CTO @ [Socxo](https://www.socxo.com/) - Advocacy Marketing Platform | Brand 
 - [Using Docker environment variables at JavaScript runtime](https://dotnetthoughts.net/using-docker-environment-variables-at-javascript-runtime/)
 - [Continuous database deployments to Azure Sql Server with Bitbucket](https://dotnetthoughts.net/continuous-database-deployments-to-azure-sql-server-with-bitbucket/)
 - [Deploying ASP.NET Core applications to Azure App service from Bitbucket](https://dotnetthoughts.net/deploying-an-aspnetcore-from-bitbucket/)
-- [Deploy a website with Azure virtual machines - Configuring CI/CD pipelines](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part6/)
-- [Deploy a website with Azure virtual machines - Configuring SSL certificates](https://dotnetthoughts.net/deploy-a-website-with-azure-virtual-machines-part5/)
 <!-- BLOGPOSTS:END -->
