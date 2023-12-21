@@ -12,6 +12,7 @@ I'm CTO @ [Socxo](https://www.socxo.com/) - Advocacy Marketing Platform | Brand 
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [How to use identity to secure a Web API backend for single page apps](https://dotnetthoughts.net/how-to-use-identity-to-secure-a-web-api-backend-for-spas/)
 - [Getting started with .NET Aspire](https://dotnetthoughts.net/getting-started-with-dotnet-aspire/)
 - [Building Sql Server Database projects with dotnet CLI](https://dotnetthoughts.net/build-sqlserver-database-projects-with-dotnet-cli/)
 - [Integrate OpenAI API in ASP.NET Core](https://dotnetthoughts.net/integrate-openai-api-in-aspnet-core/)
@@ -21,5 +22,4 @@ I'm CTO @ [Socxo](https://www.socxo.com/) - Advocacy Marketing Platform | Brand 
 - [How to use native AOT to improve performance of ASP.NET Core apps](https://dotnetthoughts.net/how-to-use-native-aot-to-improve-performance-of-aspnetcore-apps/)
 - [Using Docker environment variables at JavaScript runtime](https://dotnetthoughts.net/using-docker-environment-variables-at-javascript-runtime/)
 - [Continuous database deployments to Azure Sql Server with Bitbucket](https://dotnetthoughts.net/continuous-database-deployments-to-azure-sql-server-with-bitbucket/)
-- [Deploying ASP.NET Core applications to Azure App service from Bitbucket](https://dotnetthoughts.net/deploying-an-aspnetcore-from-bitbucket/)
 <!-- BLOGPOSTS:END -->
