@@ -8,7 +8,7 @@ I'm CTO @ [Socxo](https://www.socxo.com/) - Advocacy Marketing Platform | Brand 
 * https://www.linkedin.com/in/anurajp/
 
 ### Blog
-* https://dotnetthoughts.net/
+* https://anuraj.dev/blog
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
