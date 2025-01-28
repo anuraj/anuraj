@@ -23,7 +23,7 @@ jobs:
         uses: kohrongying/readme-the-rss@v1
         with:
           feed_url: https://anuraj.dev/blog/feed.rss
-          count: 15
+          count: 5
       - name: Commit file changes
         run: |
             git config --global user.name 'anuraj'
