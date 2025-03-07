@@ -12,6 +12,7 @@ I'm CTO @ [Socxo](https://www.socxo.com/) - Advocacy Marketing Platform | Brand 
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Chat with your data - Semantic Kernel powered RAG application](https://anuraj.dev/blog/chat-with-your-data-semantic-kernel-powered-rag-application/)
 - [Running DeepSeek-R1 locally for free](https://anuraj.dev/blog/run-deepseek-r1-locally-for-free/)
 - [Build your own copilot with Semantic Kernel](https://anuraj.dev/blog/build-your-own-copilot-with-semantic-kernel/)
 - [Create Images using Semantic Kernel and Azure Open AI](https://anuraj.dev/blog/create-images-using-semantic-kernel-and-azure-openai/)
@@ -26,5 +27,4 @@ I'm CTO @ [Socxo](https://www.socxo.com/) - Advocacy Marketing Platform | Brand 
 - [How to run EF Core migrations from Docker](https://anuraj.dev/blog/how-to-run-ef-core-migrations-from-docker/)
 - [Running Open Web UI locally with Ollama](https://anuraj.dev/blog/running-open-webui-locally-with-ollama/)
 - [How to Install and Run Ollama with Docker](https://anuraj.dev/blog/getting-started-with-ollama-and-docker/)
-- [Using Mongo DB EF Core provider in .NET Aspire](https://anuraj.dev/blog/using-mongodb-efcore-provider-in-dotnet-aspire/)
 <!-- BLOGPOSTS:END -->
