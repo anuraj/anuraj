@@ -12,6 +12,8 @@ I'm CTO @ [Socxo](https://www.socxo.com/) - Advocacy Marketing Platform | Brand 
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Enhancing AI Agents with Open API Integrations](https://anuraj.dev/blog/enhancing-ai-agents-with-open-api/)
+- [Empowering AI Agents with Tools](https://anuraj.dev/blog/empowering-ai-agents-with-tools/)
 - [How to create an AI Agent using Semantic Kernel](https://anuraj.dev/blog/how-to-create-an-agent-using-semantic-kernel/)
 - [Chat with your data - Semantic Kernel powered RAG application](https://anuraj.dev/blog/chat-with-your-data-semantic-kernel-powered-rag-application/)
 - [Running DeepSeek-R1 locally for free](https://anuraj.dev/blog/run-deepseek-r1-locally-for-free/)
@@ -25,6 +27,4 @@ I'm CTO @ [Socxo](https://www.socxo.com/) - Advocacy Marketing Platform | Brand 
 - [Working with GitHub models in .NET 8 and Semantic Kernel](https://anuraj.dev/blog/working-with-github-models-in-net-8-and-semantic-kernel/)
 - [Building Generative AI apps with .NET 8 and Semantic Kernel](https://anuraj.dev/blog/building-generative-ai-apps-with-net-8-and-semantic-kernel/)
 - [How to use Ollama as backend for Smart Components](https://anuraj.dev/blog/how-to-use-ollama-as-backend-for-smartcomponents/)
-- [How to run EF Core migrations from Docker](https://anuraj.dev/blog/how-to-run-ef-core-migrations-from-docker/)
-- [Running Open Web UI locally with Ollama](https://anuraj.dev/blog/running-open-webui-locally-with-ollama/)
 <!-- BLOGPOSTS:END -->
