@@ -12,6 +12,7 @@ I'm CTO @ [Socxo](https://www.socxo.com/) - Advocacy Marketing Platform | Brand 
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Create API documentation with Scalar](https://anuraj.dev/blog/create-api-documentation-with-scalar/)
 - [Building MCP Servers for your APIs with .NET and C#](https://anuraj.dev/blog/building-mcp-servers-for-your-apis/)
 - [Integrating Model Context Protocol Tools with Semantic Kernel](https://anuraj.dev/blog/integrating-model-context-protocol-tools-with-semantic-kernel/)
 - [Enhancing AI Agents with Open API Integrations](https://anuraj.dev/blog/enhancing-ai-agents-with-open-api/)
@@ -26,5 +27,4 @@ I'm CTO @ [Socxo](https://www.socxo.com/) - Advocacy Marketing Platform | Brand 
 - [Mocking HttpClient in unit tests](https://anuraj.dev/blog/mocking-httpclient-in-unit-tests/)
 - [How to profile ASP.NET Core Minimal APIs using MiniProfiler](https://anuraj.dev/blog/how-to-profile-aspnet-core-minimal-apis-using-miniprofiler/)
 - [How to setup OpenTelemetry instrumentation in ASP.NET core](https://anuraj.dev/blog/how-to-setup-opentelemetry-instrumentation-in-aspnet-core/)
-- [Working with GitHub models in .NET 8 and Semantic Kernel](https://anuraj.dev/blog/working-with-github-models-in-net-8-and-semantic-kernel/)
 <!-- BLOGPOSTS:END -->
