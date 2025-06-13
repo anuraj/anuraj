@@ -12,6 +12,7 @@ I'm CTO @ [Socxo](https://www.socxo.com/) - Advocacy Marketing Platform | Brand 
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Seed Data in Entity Framework Core With Bogus](https://anuraj.dev/blog/seed-entity-framework-core-with-bogus/)
 - [Building a Server-Sent Events (SSE) MCP Server with ASPNET Core](https://anuraj.dev/blog/building-a-server-sent-events-sse-mcp-server-with-aspnetcore/)
 - [Create API documentation with Scalar](https://anuraj.dev/blog/create-api-documentation-with-scalar/)
 - [Building MCP Servers for your APIs with .NET and C#](https://anuraj.dev/blog/building-mcp-servers-for-your-apis/)
@@ -26,5 +27,4 @@ I'm CTO @ [Socxo](https://www.socxo.com/) - Advocacy Marketing Platform | Brand 
 - [Using Azure OpenAI global batch deployments in .NET and C#](https://anuraj.dev/blog/azure-openai-global-batch-deployment-in-dotnet/)
 - [Working with llamafile and Semantic Kernel](https://anuraj.dev/blog/working-with-llamafile-and-semantic-kernel/)
 - [Mocking HttpClient in unit tests](https://anuraj.dev/blog/mocking-httpclient-in-unit-tests/)
-- [How to profile ASP.NET Core Minimal APIs using MiniProfiler](https://anuraj.dev/blog/how-to-profile-aspnet-core-minimal-apis-using-miniprofiler/)
 <!-- BLOGPOSTS:END -->
