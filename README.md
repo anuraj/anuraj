@@ -12,6 +12,7 @@ I'm CTO @ [Socxo](https://www.socxo.com/) - Advocacy Marketing Platform | Brand 
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Getting started with Microsoft.Extensions.AI](https://anuraj.dev/blog/getting-started-with-microsoft-extensions-ai/)
 - [Leveraging Small Language Model as a Sidecar for Linux App Service](https://anuraj.dev/blog/using-slm-as-sidecar-in-azure-appservice/)
 - [Seed Data in Entity Framework Core With Bogus](https://anuraj.dev/blog/seed-entity-framework-core-with-bogus/)
 - [Building a Server-Sent Events (SSE) MCP Server with ASPNET Core](https://anuraj.dev/blog/building-a-server-sent-events-sse-mcp-server-with-aspnetcore/)
@@ -26,5 +27,4 @@ I'm CTO @ [Socxo](https://www.socxo.com/) - Advocacy Marketing Platform | Brand 
 - [Build your own copilot with Semantic Kernel](https://anuraj.dev/blog/build-your-own-copilot-with-semantic-kernel/)
 - [Create Images using Semantic Kernel and Azure Open AI](https://anuraj.dev/blog/create-images-using-semantic-kernel-and-azure-openai/)
 - [Using Azure OpenAI global batch deployments in .NET and C#](https://anuraj.dev/blog/azure-openai-global-batch-deployment-in-dotnet/)
-- [Working with llamafile and Semantic Kernel](https://anuraj.dev/blog/working-with-llamafile-and-semantic-kernel/)
 <!-- BLOGPOSTS:END -->
