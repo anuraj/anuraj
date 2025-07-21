@@ -12,6 +12,7 @@ I'm CTO @ [Socxo](https://www.socxo.com/) - Advocacy Marketing Platform | Brand 
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Building your first MCP Server in .NET and C#](https://anuraj.dev/blog/building-your-first-mcp-server-in-dotnet/)
 - [Exploring the new AI chat template](https://anuraj.dev/blog/exploring-the-new-ai-chat-template/)
 - [Getting started with Microsoft.Extensions.AI](https://anuraj.dev/blog/getting-started-with-microsoft-extensions-ai/)
 - [Leveraging Small Language Model as a Sidecar for Linux App Service](https://anuraj.dev/blog/using-slm-as-sidecar-in-azure-appservice/)
@@ -26,5 +27,4 @@ I'm CTO @ [Socxo](https://www.socxo.com/) - Advocacy Marketing Platform | Brand 
 - [Chat with your data - Semantic Kernel powered RAG application](https://anuraj.dev/blog/chat-with-your-data-semantic-kernel-powered-rag-application/)
 - [Running DeepSeek-R1 locally for free](https://anuraj.dev/blog/run-deepseek-r1-locally-for-free/)
 - [Build your own copilot with Semantic Kernel](https://anuraj.dev/blog/build-your-own-copilot-with-semantic-kernel/)
-- [Create Images using Semantic Kernel and Azure Open AI](https://anuraj.dev/blog/create-images-using-semantic-kernel-and-azure-openai/)
 <!-- BLOGPOSTS:END -->
