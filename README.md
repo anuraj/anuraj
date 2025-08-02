@@ -12,7 +12,8 @@ I'm CTO @ [Socxo](https://www.socxo.com/) - Advocacy Marketing Platform | Brand 
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
-- [Building your first MCP Server in .NET and C#](https://anuraj.dev/blog/building-your-first-mcp-server-in-dotnet/)
+- [Running C# files with dotnet run command](https://anuraj.dev/blog/running-csharp-files-with-dotnet-run/)
+- [Build your first MCP Server in .NET and C#](https://anuraj.dev/blog/build-your-first-mcp-server-in-dotnet/)
 - [Exploring the new AI chat template](https://anuraj.dev/blog/exploring-the-new-ai-chat-template/)
 - [Getting started with Microsoft.Extensions.AI](https://anuraj.dev/blog/getting-started-with-microsoft-extensions-ai/)
 - [Leveraging Small Language Model as a Sidecar for Linux App Service](https://anuraj.dev/blog/using-slm-as-sidecar-in-azure-appservice/)
@@ -26,5 +27,4 @@ I'm CTO @ [Socxo](https://www.socxo.com/) - Advocacy Marketing Platform | Brand 
 - [How to create an AI Agent using Semantic Kernel](https://anuraj.dev/blog/how-to-create-an-agent-using-semantic-kernel/)
 - [Chat with your data - Semantic Kernel powered RAG application](https://anuraj.dev/blog/chat-with-your-data-semantic-kernel-powered-rag-application/)
 - [Running DeepSeek-R1 locally for free](https://anuraj.dev/blog/run-deepseek-r1-locally-for-free/)
-- [Build your own copilot with Semantic Kernel](https://anuraj.dev/blog/build-your-own-copilot-with-semantic-kernel/)
 <!-- BLOGPOSTS:END -->
