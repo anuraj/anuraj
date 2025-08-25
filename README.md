@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm CTO @ [Socxo](https://www.socxo.com/) - Advocacy Marketing Platform | Brand Advocacy Programs &amp; Solutions. I used to write about .NET and Microsoft technologies on https://anuraj.dev/blog
+Microsoft MVP | Author | Community Organiser - I used to write about .NET and Microsoft technologies on https://anuraj.dev/blog
 
 ### Contact me
 * https://twitter.com/anuraj
