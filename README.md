@@ -12,6 +12,7 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [.NET Developer Roadmap for 2026: AI, Cloud, and Beyond](https://anuraj.dev/blog/upskilling-for-senior-dotnet-developers-in-2026/)
 - [Set up GitHub Codespaces for a .NET 10 application](https://anuraj.dev/blog/set-up-github-codespaces-for-a-net-10-application/)
 - [Using MCP Tools for your AI Agent](https://anuraj.dev/blog/using-mcp-tools-for-your-agent/)
 - [Build your first AI Agent using Microsoft Agent Framework](https://anuraj.dev/blog/build-your-first-ai-agent-using-microsoft-agent-framework/)
@@ -26,5 +27,4 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 - [Getting started with Microsoft.Extensions.AI](https://anuraj.dev/blog/getting-started-with-microsoft-extensions-ai/)
 - [Leveraging Small Language Model as a Sidecar for Linux App Service](https://anuraj.dev/blog/using-slm-as-sidecar-in-azure-appservice/)
 - [Seed Data in Entity Framework Core With Bogus](https://anuraj.dev/blog/seed-entity-framework-core-with-bogus/)
-- [Building a Server-Sent Events (SSE) MCP Server with ASPNET Core](https://anuraj.dev/blog/building-a-server-sent-events-sse-mcp-server-with-aspnetcore/)
 <!-- BLOGPOSTS:END -->
