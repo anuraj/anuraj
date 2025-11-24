@@ -12,6 +12,7 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Building a custom MCP server using Azure Functions](https://anuraj.dev/blog/building-a-remote-mcp-server-with-azure-functions/)
 - [Validation support in Minimal APIs](https://anuraj.dev/blog/validation-support-in-minimal-apis/)
 - [Running AWS DynamoDb locally using docker](https://anuraj.dev/blog/dynamodb-running-locally-using-docker/)
 - [.NET Developer Roadmap for 2026: AI, Cloud, and Beyond](https://anuraj.dev/blog/upskilling-for-senior-dotnet-developers-in-2026/)
@@ -26,5 +27,4 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 - [Running C# files with dotnet run command](https://anuraj.dev/blog/running-csharp-files-with-dotnet-run/)
 - [Build your first MCP Server in .NET and C#](https://anuraj.dev/blog/build-your-first-mcp-server-in-dotnet/)
 - [Exploring the new AI chat template](https://anuraj.dev/blog/exploring-the-new-ai-chat-template/)
-- [Getting started with Microsoft.Extensions.AI](https://anuraj.dev/blog/getting-started-with-microsoft-extensions-ai/)
 <!-- BLOGPOSTS:END -->
