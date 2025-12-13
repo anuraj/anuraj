@@ -12,6 +12,7 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Build a .NET AI vector search app](https://anuraj.dev/blog/build-vector-search-app-dotnet/)
 - [Generating Playwright Tests with GitHub Copilot and Playwright MCP server](https://anuraj.dev/blog/generating-playwright-tests-with-github-copilot-and-mcp/)
 - [Working with SQL Server 2025 in AI Chat Web](https://anuraj.dev/blog/working-with-sqlserver-in-aichatweb/)
 - [Building a custom MCP server using Azure Functions](https://anuraj.dev/blog/building-a-remote-mcp-server-with-azure-functions/)
@@ -26,5 +27,4 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 - [Working with Docker model Runner from .NET](https://anuraj.dev/blog/working-with-docker-model-runner-from-dotnet/)
 - [Introducing SLNX - The New Solution File Format for .NET](https://anuraj.dev/blog/introducing-slnx-the-new-solution-file-format/)
 - [Using Central Package Management with .NET solutions](https://anuraj.dev/blog/using-central-package-management-with-net-solutions/)
-- [Running C# files with dotnet run command](https://anuraj.dev/blog/running-csharp-files-with-dotnet-run/)
 <!-- BLOGPOSTS:END -->
