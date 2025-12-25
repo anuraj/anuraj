@@ -12,6 +12,7 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Working with Data API Builder](https://anuraj.dev/blog/working-with-data-api-builder/)
 - [Getting started with Amazon Bedrock in .NET applications](https://anuraj.dev/blog/getting-started-with-amazon-bedrock-in-net-applications/)
 - [Building AWS lambda functions powered by ASP.NET Core Minimal APIs](https://anuraj.dev/blog/aws-lambda-powered-by-aspnet-core-minimal-apis/)
 - [Build a CI / CD Pipeline for Azure Functions using GitHub Actions](https://anuraj.dev/blog/building-a-ci-cd-pipeline-for-azure-functions/)
@@ -26,5 +27,4 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 - [Using MCP Tools for your AI Agent](https://anuraj.dev/blog/using-mcp-tools-for-your-agent/)
 - [Build your first AI Agent using Microsoft Agent Framework](https://anuraj.dev/blog/build-your-first-ai-agent-using-microsoft-agent-framework/)
 - [10 Practical C# Tips for Clean and Reliable Code](https://anuraj.dev/blog/Ten-csharp-best-practices-for-writing-clean-and-maintainable-code/)
-- [Passing images to LLMs in C# with Microsoft.Extensions.AI](https://anuraj.dev/blog/passing-images-to-llms-using-dotnet/)
 <!-- BLOGPOSTS:END -->
