@@ -12,6 +12,7 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Create a CRUD HTTP API with Lambda and DynamoDB - Part1](https://anuraj.dev/blog/create-crud-http-api-with-lambda-and-dynamodb-part1/)
 - [Working with Data API Builder](https://anuraj.dev/blog/working-with-data-api-builder/)
 - [Getting started with Amazon Bedrock in .NET applications](https://anuraj.dev/blog/getting-started-with-amazon-bedrock-in-net-applications/)
 - [Building AWS lambda functions powered by ASP.NET Core Minimal APIs](https://anuraj.dev/blog/aws-lambda-powered-by-aspnet-core-minimal-apis/)
@@ -26,5 +27,4 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 - [Set up GitHub Codespaces for a .NET 10 application](https://anuraj.dev/blog/set-up-github-codespaces-for-a-net-10-application/)
 - [Using MCP Tools for your AI Agent](https://anuraj.dev/blog/using-mcp-tools-for-your-agent/)
 - [Build your first AI Agent using Microsoft Agent Framework](https://anuraj.dev/blog/build-your-first-ai-agent-using-microsoft-agent-framework/)
-- [10 Practical C# Tips for Clean and Reliable Code](https://anuraj.dev/blog/Ten-csharp-best-practices-for-writing-clean-and-maintainable-code/)
 <!-- BLOGPOSTS:END -->
