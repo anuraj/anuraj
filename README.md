@@ -12,9 +12,9 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
-- [Create a CRUD HTTP API with Lambda and DynamoDB - Part 3](https://anuraj.dev/blog/create-crud-http-api-with-lambda-and-dynamodb-part3/)
-- [Create a CRUD HTTP API with Lambda and DynamoDB - Part 2](https://anuraj.dev/blog/create-crud-http-api-with-lambda-and-dynamodb-part2/)
-- [Create a CRUD HTTP API with Lambda and DynamoDB - Part 1](https://anuraj.dev/blog/create-crud-http-api-with-lambda-and-dynamodb-part1/)
+- [How to write unit tests for AWS Lambda](https://anuraj.dev/blog/how-to-write-unit-tests-for-lambda/)
+- [How to connect to AWS DynamoDB from AWS Lambda](https://anuraj.dev/blog/how-to-connect-to-dynamodb-from-lambda/)
+- [How to create an AWS Lambda function and debug it](https://anuraj.dev/blog/how-to-create-lambda-function-and-debug/)
 - [Working with Data API Builder](https://anuraj.dev/blog/working-with-data-api-builder/)
 - [Getting started with Amazon Bedrock in .NET applications](https://anuraj.dev/blog/getting-started-with-amazon-bedrock-in-net-applications/)
 - [Building AWS lambda functions powered by ASP.NET Core Minimal APIs](https://anuraj.dev/blog/aws-lambda-powered-by-aspnet-core-minimal-apis/)
