@@ -12,6 +12,7 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Getting started with AWS CDK in C#](https://anuraj.dev/blog/getting-started-with-aws-cdk-in-csharp/)
 - [How to write unit tests for AWS Lambda](https://anuraj.dev/blog/how-to-write-unit-tests-for-lambda/)
 - [How to connect to AWS DynamoDB from AWS Lambda](https://anuraj.dev/blog/how-to-connect-to-dynamodb-from-lambda/)
 - [How to create an AWS Lambda function and debug it](https://anuraj.dev/blog/how-to-create-lambda-function-and-debug/)
@@ -26,5 +27,4 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 - [Validation support in Minimal APIs](https://anuraj.dev/blog/validation-support-in-minimal-apis/)
 - [Running AWS DynamoDb locally using docker](https://anuraj.dev/blog/dynamodb-running-locally-using-docker/)
 - [.NET Developer Roadmap for 2026: AI, Cloud, and Beyond](https://anuraj.dev/blog/upskilling-for-senior-dotnet-developers-in-2026/)
-- [Set up GitHub Codespaces for a .NET 10 application](https://anuraj.dev/blog/set-up-github-codespaces-for-a-net-10-application/)
 <!-- BLOGPOSTS:END -->
