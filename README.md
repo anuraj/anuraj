@@ -12,6 +12,8 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Automate Code Review in Bitbucket with Rovo Dev](https://anuraj.dev/blog/automate-code-review-bitbucket-with-rovo-dev/)
+- [Integrating AWS with .NET Aspire](https://anuraj.dev/blog/integrating-aws-with-dotnet-aspire/)
 - [How to create a Telegram bot in C# and dotnet](https://anuraj.dev/blog/how-to-create-telegram-bot-in-csharp/)
 - [Publish your .NET MCP Server to NuGet](https://anuraj.dev/blog/publish-your-dotnet-mcp-server-to-nuget/)
 - [Getting started with AWS CDK in C#](https://anuraj.dev/blog/getting-started-with-aws-cdk-in-csharp/)
@@ -25,6 +27,4 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 - [Build a .NET AI vector search app](https://anuraj.dev/blog/build-vector-search-app-dotnet/)
 - [Generating Playwright Tests with GitHub Copilot and Playwright MCP server](https://anuraj.dev/blog/generating-playwright-tests-with-github-copilot-and-mcp/)
 - [Working with SQL Server 2025 in AI Chat Web](https://anuraj.dev/blog/working-with-sqlserver-in-aichatweb/)
-- [Building a custom MCP server using Azure Functions](https://anuraj.dev/blog/building-a-remote-mcp-server-with-azure-functions/)
-- [Validation support in Minimal APIs](https://anuraj.dev/blog/validation-support-in-minimal-apis/)
 <!-- BLOGPOSTS:END -->
