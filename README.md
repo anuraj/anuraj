@@ -12,6 +12,7 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Working with AI Chat Template - Creating a Sales Copilot](https://anuraj.dev/blog/working-with-ai-chat-template-creating-sales-copilot/)
 - [Quality Gate: Configuring Code Coverage Checks for .Net Core in Bitbucket](https://anuraj.dev/blog/quality-gate-configuring-code-coverage-checks-for-net/)
 - [Getting Started with the Aspire CLI](https://anuraj.dev/blog/getting-started-with-the-aspire-cli/)
 - [How to work with custom containers in .NET Aspire](https://anuraj.dev/blog/how-to-work-with-custom-containers-in-net-aspire/)
@@ -26,5 +27,4 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 - [How to create an AWS Lambda function and debug it](https://anuraj.dev/blog/how-to-create-lambda-function-and-debug/)
 - [Working with Data API Builder](https://anuraj.dev/blog/working-with-data-api-builder/)
 - [Getting started with Amazon Bedrock in .NET applications](https://anuraj.dev/blog/getting-started-with-amazon-bedrock-in-net-applications/)
-- [Building AWS lambda functions powered by ASP.NET Core Minimal APIs](https://anuraj.dev/blog/aws-lambda-powered-by-aspnet-core-minimal-apis/)
 <!-- BLOGPOSTS:END -->
