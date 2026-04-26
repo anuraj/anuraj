@@ -12,6 +12,7 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Working with Foundry local and Microsoft Extensions AI](https://anuraj.dev/blog/working-with-foundry-local-and-microsoft-extensions-ai/)
 - [Getting started with Foundry Local](https://anuraj.dev/blog/getting-started-with-foundry-local/)
 - [Creating a Sales Copilot - Working with PDF files](https://anuraj.dev/blog/building-sales-copilot-working-pdf-files/)
 - [Creating a Sales Copilot - Working with Office documents](https://anuraj.dev/blog/building-sales-copilot-working-with-office-documents/)
@@ -26,5 +27,4 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 - [Publish your .NET MCP Server to NuGet](https://anuraj.dev/blog/publish-your-dotnet-mcp-server-to-nuget/)
 - [Getting started with AWS CDK in C#](https://anuraj.dev/blog/getting-started-with-aws-cdk-in-csharp/)
 - [How to write unit tests for AWS Lambda](https://anuraj.dev/blog/how-to-write-unit-tests-for-lambda/)
-- [How to connect to AWS DynamoDB from AWS Lambda](https://anuraj.dev/blog/how-to-connect-to-dynamodb-from-lambda/)
 <!-- BLOGPOSTS:END -->
