@@ -12,6 +12,7 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [ASP.NET Core Authentication with Microsoft Entra External ID](https://anuraj.dev/blog/asp-net-core-authentication-with-microsoft-entra-external-id/)
 - [GitHub Copilot CLI - Bring Your Own Key (BYOK)](https://anuraj.dev/blog/github-copilot-cli-bring-your-own-key-byok/)
 - [Working with Foundry local and Microsoft Extensions AI](https://anuraj.dev/blog/working-with-foundry-local-and-microsoft-extensions-ai/)
 - [Getting started with Foundry Local](https://anuraj.dev/blog/getting-started-with-foundry-local/)
@@ -26,5 +27,4 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 - [Integrating AWS with .NET Aspire](https://anuraj.dev/blog/integrating-aws-with-dotnet-aspire/)
 - [How to create a Telegram bot in C# and dotnet](https://anuraj.dev/blog/how-to-create-telegram-bot-in-csharp/)
 - [Publish your .NET MCP Server to NuGet](https://anuraj.dev/blog/publish-your-dotnet-mcp-server-to-nuget/)
-- [Getting started with AWS CDK in C#](https://anuraj.dev/blog/getting-started-with-aws-cdk-in-csharp/)
 <!-- BLOGPOSTS:END -->
