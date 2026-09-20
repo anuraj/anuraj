@@ -12,6 +12,7 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Spec-Driven Development with OpenSpec](https://anuraj.dev/blog/spec-driven-development-with-openspec/)
 - [GitHub Copilot - Automated Code Review on Pull Requests](https://anuraj.dev/blog/github-copilot-automated-code-review-on-pull-requests/)
 - [ASP.NET Core Authentication with Microsoft Entra External ID](https://anuraj.dev/blog/asp-net-core-authentication-with-microsoft-entra-external-id/)
 - [GitHub Copilot CLI - Bring Your Own Key (BYOK)](https://anuraj.dev/blog/github-copilot-cli-bring-your-own-key-byok/)
@@ -26,5 +27,4 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 - [Automating Image Compression for Jekyll Blogs with C# GitHub Actions](https://anuraj.dev/blog/automating-image-compression-jekyll-github-actions-csharp/)
 - [Automate Code Review in Bitbucket with Rovo Dev](https://anuraj.dev/blog/automate-code-review-bitbucket-with-rovo-dev/)
 - [Integrating AWS with .NET Aspire](https://anuraj.dev/blog/integrating-aws-with-dotnet-aspire/)
-- [How to create a Telegram bot in C# and dotnet](https://anuraj.dev/blog/how-to-create-telegram-bot-in-csharp/)
 <!-- BLOGPOSTS:END -->
