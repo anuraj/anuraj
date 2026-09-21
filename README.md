@@ -12,6 +12,7 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 
 ### Recent Blog posts
 <!-- BLOGPOSTS:START -->
+- [Building an MCP App with C#](https://anuraj.dev/blog/building-an-mcp-app-with-csharp/)
 - [Spec-Driven Development with OpenSpec](https://anuraj.dev/blog/spec-driven-development-with-openspec/)
 - [GitHub Copilot - Automated Code Review on Pull Requests](https://anuraj.dev/blog/github-copilot-automated-code-review-on-pull-requests/)
 - [ASP.NET Core Authentication with Microsoft Entra External ID](https://anuraj.dev/blog/asp-net-core-authentication-with-microsoft-entra-external-id/)
@@ -26,5 +27,4 @@ Microsoft MVP | Author | Community Organiser - I used to write about .NET and Mi
 - [How to work with custom containers in .NET Aspire](https://anuraj.dev/blog/how-to-work-with-custom-containers-in-net-aspire/)
 - [Automating Image Compression for Jekyll Blogs with C# GitHub Actions](https://anuraj.dev/blog/automating-image-compression-jekyll-github-actions-csharp/)
 - [Automate Code Review in Bitbucket with Rovo Dev](https://anuraj.dev/blog/automate-code-review-bitbucket-with-rovo-dev/)
-- [Integrating AWS with .NET Aspire](https://anuraj.dev/blog/integrating-aws-with-dotnet-aspire/)
 <!-- BLOGPOSTS:END -->
